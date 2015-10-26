@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-extra",
+  "name": "gitbook",
   "version": "2.5.0",
   "description": "Extended gitbook, use react as website render engine.",
   "main": "lib/index.js",
